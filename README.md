@@ -1,12 +1,12 @@
 # Integrantes
 
+Thales Vinicius Gomes 9814265
+
 Lucas Cardoso Lazari 8927439
 
 Diogo José Costa Alves 13709881
 
 Lucas de Angelis Oliveira 8989189
-
-Thales Vinicius Gomes 9814265
 
 # Descrição do dataset
 
